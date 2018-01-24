@@ -1,6 +1,6 @@
 # SSL-Certificate-Splitter
-Powershell Script using Windows Forms
-This tool will extract the SSL Cert, Key (unencrypted), CA and ROOT chain in PEM format.
+##### Powershell Script using Windows Forms
+##### This tool will extract the SSL Cert, Key (unencrypted), CA and ROOT chain in PEM format.
 
  
   
